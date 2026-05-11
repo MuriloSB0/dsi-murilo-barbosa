@@ -33,5 +33,5 @@ Faça isso caso precise fazer o código Java funcionar manualmente
 PS C:\Users\CAMARGO\Desktop\nome do repositório> cd .\nome da pasta\
 PS C:\Users\CAMARGO\Desktop\nome do repositório\nome da pasta> javac .\"Nome do arquivo".java 
 PS C:\Users\CAMARGO\Desktop\nome do repositório\nome da pasta> java .\"Nome do arquivo".java
-Hello World
+
 

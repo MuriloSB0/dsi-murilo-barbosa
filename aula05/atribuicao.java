@@ -27,12 +27,12 @@ public class atribuicao {
     int u = 5;
     u %= 3;
     System.out.println(u);
-    //Define o item como
+    //Define o item como o resto do seu valor original dividido pelo valor colocado
 
     int t = 5;
     t &= 3;
     System.out.println(t);
-    //Define o item como
+    //Define o item como o resultado de uma operação 'and bit a bit' (0 0, 0 1 e 1 0 = 0 / 1 1 = 1 ) então 5 (0101) and 3 (0011) = 1 (0001)
 
     int s = 5;
     s |= 3;
