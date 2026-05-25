@@ -1,0 +1,45 @@
+(Só por precaução)
+
+Lista de Exercicios em Java do João! ♥
+
+Informações Importantes!
+•	Crie no seu repositório uma pasta chamada Exercicios onde serão colocados os arquivos;
+•	Cada exercício deverá receber o nome de acordo com esse padrão, ex: Exercicio01.java,  Exercicio02.java e Exercicio03.java;
+
+1.	Escrever um algoritmo que lê o nome de um funcionário, o número de horas
+trabalhadas, o valor que recebe por hora, o número de filhos com idade inferior a 14
+anos, a idade, o tempo de serviço do funcionário e o valor do salário família (salário família coloque qualquer valor aleatório! Ex: R$ 50,00 por filho) por
+filho.
+- Calcular o salário bruto, o desconto do INPS (8,5% do salário bruto) e o salário
+família.
+- Calcular o IR (Imposto de Renda) como segue:
+- Se salário bruto for maior que 1.500 então IR = 15% do salário bruto;
+- Se salário bruto estiver entre 500 e 1.500 então IR = 8% do salário bruto;
+- Se salário bruto for igual ou menor que 500 então IR = 0.
+- Calcular o adicional conforme especificado:
+- Se idade superior a 40 anos ADIC = 2% do salário bruto;
+- Se tempo de serviço superior a 15 anos ADIC = 3,5% do salário bruto;
+- Se tempo de serviço for menor ou igual que 15 anos mas superior a 5 anos e idade maior do que 30 anos então ADIC = 1,5% do salario bruto.
+Calcular o salário líquido. Escrever o número do funcionário, o salário bruto, total de
+descontos, adicional e salário líquido.
+
+2.	Uma empresa decide presentear seus funcionários com um bônus de Natal, cujo
+valor é definido do seguinte modo:
+- Os funcionários do sexo masculino com tempo de casa superior a 15 anos terão
+direito a um bônus de 20% do seu salário;
+- As funcionárias com tempo de casa superior a 10 anos terão direito a um bônus
+de 25% do seu salário; e
+- Os demais funcionários terão direito a um bônus de 100.
+Escreva um algoritmo que leia o código do funcionário, o sexo, o tempo de trabalho
+(em anos) e o salário. O algoritmo deve calcular o valor do bônus.
+
+3.	Escrever um algoritmo que lê três comprimentos de lados a, b, c e os ordena em
+ordem decrescente, de modo que o algoritmo represente o maior dos três lados lidos.
+Determine, a seguir, o tipo de triângulo que estes três lados formam, com base nos
+seguintes casos escrevendo sempre os valores lidos e uma mensagem adequada:
+- Se a > b + c: não formam triângulo algum;
+- Se a2 = b2 + c2 : formam um triângulo retângulo;
+- Se a2 > b2 + c2 : formam um triângulo obtusângulo;
+- Se a2 < b2 + c2 : formam um acutângulo;
+- Se forem todos iguais formam um triângulo eqüilátero;
+- Se a = b ou b = c ou a = c então formam um triângulo isósceles.
